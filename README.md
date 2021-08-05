@@ -1,5 +1,5 @@
 - ♙ Interesting ...
 
-<div style="text-align: center !important; position: relative;">
+<div style="left: 50% !important; position: relative;">
   <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/MasterSignR.png">
 </div>
