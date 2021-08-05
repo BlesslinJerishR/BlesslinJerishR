@@ -1,5 +1,5 @@
 - ♙ Interesting ...
 
-<div align="center>
+<p align="center">
   <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/MasterSignR.png">
-</div>
+</p>
