@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<head>
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-  html, body{
-  font-family: 'Roboto', sans-serif !important;
-}
-
-</style>
-</head>
-<body>
 <h1 align="center">
   <a target="_blank">
     <img src="pac.gif" width="24px" style="max-width:100%;">
@@ -25,4 +13,3 @@
 <p align="center">
   <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/MasterSignP.png">
 </p>
-</body>
