@@ -16,7 +16,8 @@
 <br>
 
 <h1 align="centre">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mastermindx33&theme=highcontrast)](https://git.io/streak-stats)
+  <span>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mastermindx33&theme=chartreuse-dark)](https://git.io/streak-stats)
 </h1>
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
