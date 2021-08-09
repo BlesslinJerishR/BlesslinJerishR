@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: courier">
   <a target="_blank">
-    <img src="pac.gif" width="24px" style="max-width:100%;">
+    <img src="pac.png" width="24px" style="max-width:100%;">
   </a>
   <span style="color: green !important;">&nbsp;Hello</span> , &lt; Friend /&gt;
 </h1>
