@@ -56,3 +56,6 @@
 <code><img height="40" width="40" src="icons/pycharm/pycharm-original.svg"></code>
 <code><img height="40" width="40" src="icons/vscode/vscode-original.svg"></code>
 <br/>
+
+### Want to hear a Joke ?
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
