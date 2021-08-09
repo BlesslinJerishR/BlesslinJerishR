@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'courier'">
+<h1 align="center" style="font-family: courier">
   <a target="_blank">
     <img src="pac.gif" width="24px" style="max-width:100%;">
   </a>
