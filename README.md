@@ -16,13 +16,13 @@
 <br>
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mastermindx33&theme=chartreuse-dark&border_color=00FF00" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mastermindx33&theme=chartreuse-dark&" />
   </a>
 </p>
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&color=00FF00" />
   </a>
 </p>
 
