@@ -57,7 +57,7 @@
 <code><img height="40" width="40" src="icons/vscode/vscode-original.svg"></code>
 <br/>
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Mastermindx33/Mastermindx33/blob/main/github-contribution-grid-snake.svg)
+![](https://github.com/Mastermindx33/Mastermindx33/blob/main/github-contribution-grid-snake.svg)
 
 ### Want to hear a Joke ?
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
