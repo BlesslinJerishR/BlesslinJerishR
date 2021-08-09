@@ -4,9 +4,9 @@
   </a>
   <span style="color: green !important;"> Hello</span> , &lt; Friend /&gt;
 </h1>
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="devbrain.gif" width="40px" style="position: relative; top: 10px;"/>
-</h1>
+</h1> -->
 
 - ♟️ interesting ...
 
