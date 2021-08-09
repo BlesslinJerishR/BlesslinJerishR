@@ -14,12 +14,12 @@
   <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/MasterSignP.png">
 </p>
 <br>
-#
+
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
-###**TechStack**  
+**###TechStack**  
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
