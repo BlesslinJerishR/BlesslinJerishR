@@ -16,9 +16,16 @@
 <br>
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mastermindx33&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mastermindx33&theme=chartreuse-dark&border_color=00FF00" />
   </a>
 </p>
+
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515" />
+  </a>
+</p>
+
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
