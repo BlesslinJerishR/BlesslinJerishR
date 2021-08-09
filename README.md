@@ -10,7 +10,7 @@
   <a target="_blank">
     <img src="pac.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <span style="color: #00FF00;">𝐇𝐞𝐥𝐥𝐨</span>, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;
 </h1>
 <h1 align="center">
   <img src="devbrain.gif" width="40px" style="position: relative; top: 10px;"/>
