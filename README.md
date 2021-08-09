@@ -4,7 +4,7 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="devbrain.gif" width="40px" style="position: relative; top: 10%;"/>
+    <img src="devbrain.gif" width="40px" style="position: relative; top: 10px;"/>
   </a>
 </h1>
 
