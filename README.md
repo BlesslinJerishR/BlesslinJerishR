@@ -12,13 +12,8 @@
 
 <p align="center">
   <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/MasterSignP.png">
-</p>
-
-<br>
-
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mastermindx33&theme=chartreuse-dark&hide_border=true" />
+  &nbsp; &nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mastermindx33&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
 
