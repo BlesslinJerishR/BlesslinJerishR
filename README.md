@@ -17,7 +17,7 @@
 <br>
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mastermindx33&theme=chartreuse-dark&" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mastermindx33&theme=chartreuse-dark&hide_border=true" />
   </a>
   &nbsp; &nbsp;
   <a>
