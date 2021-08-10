@@ -60,4 +60,4 @@
 ![](https://github.com/Mastermindx33/Mastermindx33/blob/main/github-contribution-grid-snake.svg)
 
 ### Want to hear a Joke ?
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="130%"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" max-width="100%" max-height="100%"/>
