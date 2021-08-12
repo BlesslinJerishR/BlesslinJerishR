@@ -49,6 +49,7 @@
 <code><img height="40" width="40" src="icons/nodejs/nodejs-original.svg"></code>
 <code><img height="40" width="40" src="icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="40" width="40" src="icons/jquery/jquery-original-wordmark.svg"></code>
+<code><img height="40" width="40" src="icons/netlify/netlify.svg"></code>
 <code><img height="40" width="40" src="icons/heroku/heroku-plain-wordmark.svg"></code>
 <code><img height="40" width="40" src="icons/tomcat/tomcat-original-wordmark.svg"></code>
 <code><img height="40" width="40" src="icons/wordpress/wordpress-original.svg"></code>
