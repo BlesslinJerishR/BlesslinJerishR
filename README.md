@@ -36,7 +36,6 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="icons/mysql/mysql-original.svg"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 
 #
 
@@ -47,7 +46,12 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" width="40" src="icons/django/django-original.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" width="40" src="icons/nodejs/nodejs-original.svg"></code>
+<code><img height="40" width="40" src="icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="40" width="40" src="icons/jquery/jquery-original-wordmark.svg"></code>
+<code><img height="40" width="40" src="icons/netlify/netlify.svg"></code>
 <code><img height="40" width="40" src="icons/heroku/heroku-plain-wordmark.svg"></code>
+<code><img height="40" width="40" src="icons/tomcat/tomcat-original-wordmark.svg"></code>
 <code><img height="40" width="40" src="icons/wordpress/wordpress-original.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" width="40" src="icons/linux/linux-original.svg"></code>
@@ -60,4 +64,6 @@
 ![](https://github.com/Mastermindx33/Mastermindx33/blob/main/github-contribution-grid-snake.svg)
 
 ### Want to hear a Joke ?
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" max-width="100%" max-height="100%"/>
+</p>
