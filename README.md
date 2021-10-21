@@ -31,7 +31,7 @@
 **TechStack**  
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://github.com/Mastermindx33/Mastermindx33/blob/main/icons/html5/html5-original.svg"></code>
+<code><img height="40" width="40" src="icons/html5/html5-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -59,6 +59,7 @@
 <code><img height="40" width="40" src="icons/google/google-original.svg"></code>
 <code><img height="40" width="40" src="icons/pycharm/pycharm-original.svg"></code>
 <code><img height="40" width="40" src="icons/vscode/vscode-original.svg"></code>
+<code><img height="40" width="40" src="icons/shop.png"></code>
 <br/>
 
 ![](https://github.com/Mastermindx33/Mastermindx33/blob/main/github-contribution-grid-snake.svg)
