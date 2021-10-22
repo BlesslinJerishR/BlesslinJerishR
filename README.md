@@ -8,7 +8,8 @@
   <img src="devbrain.gif" width="40px" style="position: relative; top: 10px;"/>
 </h1> -->
 
-- ♟️ interesting ...
+- I see no God up here .
+- POV : I am God .
 
 <p align="center">
   <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/MasterSignP.png">
