@@ -8,8 +8,13 @@
   <img src="devbrain.gif" width="40px" style="position: relative; top: 10px;"/>
 </h1> -->
 
-- I see no God up here .
-- POV : I am God .
+- I see no God up here ,
+- I am God .
+- I am not in the Team La Va Da ,
+- I am the Team .
+- Frontend or Backend ?
+- I am the whole IT Department .
+- Vruh .
 
 <p align="center">
   <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/MasterSignP.png">
