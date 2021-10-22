@@ -18,7 +18,7 @@
 - Gone through many dropouts than Breakups . 
 
 <p align="center">
-  <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/saasb.png" height="500px">
+  <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/saasbg.jpg" height="500px">
 </p>
 
 <br>
