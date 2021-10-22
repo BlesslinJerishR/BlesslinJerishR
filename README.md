@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="pac.png" width="33px" height="33px" style="max-width:100%;">
   </a>
-  <span style="color: green !important;">&nbsp;Hello</span> , &lt; Friend /&gt;
+  <span style="color: green !important;">&nbsp;Hola </span> ,  Friend .
 </h1>
 <!-- <h1 align="center">
   <img src="devbrain.gif" width="40px" style="position: relative; top: 10px;"/>
