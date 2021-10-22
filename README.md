@@ -15,7 +15,7 @@
 - Frontend or Backend ?
 - I am the whole IT Department .
 - Vruh ...
-- Gone through many dropouts than Breakups . 
+- Gone through many dropouts than breakups . 
 
 <p align="center">
   <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/saasb.png" height="500px">
