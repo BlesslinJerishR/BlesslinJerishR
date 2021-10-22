@@ -14,7 +14,8 @@
 - I am the Team .
 - Frontend or Backend ?
 - I am the whole IT Department .
-- Vruh .
+- Vruh ...
+- Gone through more drops than Breakups . 
 
 <p align="center">
   <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/MasterSignP.png">
