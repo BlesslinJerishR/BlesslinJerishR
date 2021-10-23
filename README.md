@@ -12,7 +12,7 @@
 - Gone through many dropouts than breakups . 
 - I am not in the Team La Va Da ,
 - I am the Team .
-- - I see no God up here ,
+- I see no God up here ,
 - I am God .
 - Frontend or Backend ?
 - I am the whole IT Department .
