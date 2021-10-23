@@ -8,14 +8,15 @@
   <img src="devbrain.gif" width="40px" style="position: relative; top: 10px;"/>
 </h1> -->
 
-- I see no God up here ,
-- I am God .
+- FullStackOveFlow Developer
+- Gone through many dropouts than breakups . 
 - I am not in the Team La Va Da ,
 - I am the Team .
+- - I see no God up here ,
+- I am God .
 - Frontend or Backend ?
 - I am the whole IT Department .
-- Vruh ...
-- Gone through many dropouts than breakups . 
+- Bruh ...
 
 <p align="center">
   <img src="https://github.com/Mastermindx33/Mastermindx33/blob/main/saasb.png" height="500px">
