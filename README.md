@@ -9,7 +9,7 @@
 </h1> -->
 
 - FullStack OverFlow Developer
-- Gone through many dropouts than breakups . 
+- Gone through more dropouts than breakups . 
 - I am not in the Team La Va Da ,
 - I am the Team .
 - I see no God up here ,
