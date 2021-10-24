@@ -8,7 +8,7 @@
   <img src="devbrain.gif" width="40px" style="position: relative; top: 10px;"/>
 </h1> -->
 
-- FullStack OverFlow Developer
+- FullStack OverFlow Developer .
 - Gone through more dropouts than breakups . 
 - I am not in the Team La Va Da ,
 - I am the Team .
