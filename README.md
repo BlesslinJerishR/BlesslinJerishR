@@ -10,7 +10,7 @@
 
 - FullStack OverFlow Developer .
 - Gone through more dropouts than breakups . 
-- I am not in Team La Va Da ,
+- I am not in Team ,
 - I am the Team .
 - I see no God up here ,
 - I am God .
