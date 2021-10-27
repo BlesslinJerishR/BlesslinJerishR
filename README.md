@@ -26,7 +26,7 @@
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jerryx16&theme=chartreuse-dark&hide_border=true" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jerryx16&icons=true&theme=chartreuse-dark" />
   </a>
 </p>
 
@@ -77,10 +77,22 @@
 <br/>
 
 <!-- ![](https://github.com/Mastermindx33/Mastermindx33/blob/main/github-contribution-grid-snake.svg) -->
+<br>
 
-[![Jerryx16's github stats](https://github-readme-stats.vercel.app/api?username=Jerryx16&show_icons=true&line_height=20&show_icons=true&theme=)](https://github-readme-stats.vercel.app/api?username=Jerryx16&show_icons=true&line_height=20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jerryx16&show_icons=true&line_height=20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  </a>
+</p>
 
-### Want to hear a Joke ?
+#### Is it a Jock ?
+
+<br>
+
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" max-width="100%" max-height="100%"/>
 </p>
+
+<br>
+
+#### Developer : Blesslin Jerish R
