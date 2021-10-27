@@ -76,7 +76,9 @@
 <code><img height="40" width="40" src="icons/shop.png"></code>
 <br/>
 
-![](https://github.com/Mastermindx33/Mastermindx33/blob/main/github-contribution-grid-snake.svg)
+<!-- ![](https://github.com/Mastermindx33/Mastermindx33/blob/main/github-contribution-grid-snake.svg) -->
+
+[![Jerryx16's github stats](https://github-readme-stats.vercel.app/api?username=Jerryx16&show_icons=true&line_height=20&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=Jerryx16&show_icons=true&line_height=20&show_icons=true&theme=vue)
 
 ### Want to hear a Joke ?
 <p align="center">
