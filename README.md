@@ -90,7 +90,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" max-width="100%" max-height="100%"/>
+  <img src="https://readme-jokes.vercel.app/api?username=Jerryx16&show_icons=true&line_height=20&show_icons=true&theme=vue" alt="Jokes Card" max-width="100%" max-height="100%"/>
 </p>
 
 <br>
