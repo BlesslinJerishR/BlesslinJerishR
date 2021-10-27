@@ -42,7 +42,7 @@
 
 <br/>
 
-**TechStack**  
+**[ TechStack ]**
 <br/>
 <br/>
 <code><img height="40" width="40" src="icons/html5/html5-original.svg"></code>
@@ -95,4 +95,4 @@
 
 <br>
 
-#### Developer : Blesslin Jerish R
+#### ** [ Developer :  Blesslin Jerish R ] **
