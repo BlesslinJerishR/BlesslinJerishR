@@ -85,7 +85,7 @@
   </a>
 </p>
 
-** Is it a Jock ? **
+**Is it a Jock ?**
 
 <br>
 
@@ -95,4 +95,4 @@
 
 <br>
 
-** [ Developer :  Blesslin Jerish R ] **
+**[ Developer :  Blesslin Jerish R ]**
