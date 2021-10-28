@@ -19,14 +19,14 @@
 - Bruh ...
 
 <p align="center">
-  <img src="https://github.com/Jerryx16/Jerryx16/blob/main/saasb.png" height="500px">
+  <img src="https://github.com/BlesslinJerishR/BlesslinJerishR/blob/main/saasb.png" height="500px">
 </p>
 
 <br>
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jerryx16&icons=true&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlesslinJerishR&icons=true&theme=chartreuse-dark" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerryx16&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlesslinJerishR&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jerryx16&show_icons=true&line_height=20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlesslinJerishR&show_icons=true&line_height=20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 </p>
 
@@ -90,7 +90,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?username=Jerryx16&show_icons=true&line_height=20&show_icons=true&bg_color=1d1e21&color=000&theme=vue" alt="Jokes Card" max-width="100%" max-height="100%"/>
+  <img src="https://readme-jokes.vercel.app/api?username=BlesslinJerishR&show_icons=true&line_height=20&show_icons=true&bg_color=1d1e21&color=000&theme=vue" alt="Jokes Card" max-width="100%" max-height="100%"/>
 </p>
 
 <br>
