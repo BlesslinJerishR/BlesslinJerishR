@@ -4,9 +4,6 @@
   </a>
   <span style="color: green !important;">&nbsp;Hola </span> ,  Friend .
 </h1>
-<!-- <h1 align="center">
-  <img src="devbrain.gif" width="40px" style="position: relative; top: 10px;"/>
-</h1> -->
 
 - FullStack OverFlow Developer .
 - Gone through more dropouts than breakups . 
@@ -18,10 +15,13 @@
 - I am the whole IT Department .
 - Bruh ...
 
+<br>
 <p align="center">
-  <img src="https://github.com/BlesslinJerishR/BlesslinJerishR/blob/main/saasb.png" height="500px">
+<kbd><img src="https://github.com/BlesslinJerishR/BlesslinJerishR/blob/main/s>s.png" height="500px"></kbd>
 </p>
+<br>
 
+<p align="center"><b>[ Leaderboards ]</b></p>
 <br>
 
 <p align="center">
