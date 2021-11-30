@@ -5,15 +5,17 @@
   <span style="color: green !important;">&nbsp;Hola </span> ,  Friend .
 </h1>
 
-- FullStack OverFlow Developer .
-- Gone through more dropouts than breakups. 
-- I am not in the Team ,
-- I am the Team .
-- I see no God up here ,
-- I am God .
-- Frontend or Backend ?
-- I am the whole IT Department.
-- Bruh ...
+- FullStack OverFlow Developer 🧱
+- Gone through more dropouts than breakups  💔
+- I am not in the Team 🐷 🐍
+- I am the Team 🌱
+- I see no God up here 🕉️ ✝️ ☪️
+- I am God 🃏
+- Frontend or Backend ? 📀
+- I am the whole IT Department 🥷
+- 16 Companies Proposed Me 🤍
+- Yet I Married the One 💍
+- Bruh ... 💉
 
 <br>
 <p align="center">
