@@ -15,7 +15,7 @@
 - I am the whole IT Department 🥷
 - Bruh ... 💉
 - 16 Companies Proposed Me Until.date.now( ) ? * 🤍 💍
-- i CAN(m)A(r)RY one 🐦
+- CAN(m)A(r)RY one 🐦 !
 
 <br>
 <p align="center">
