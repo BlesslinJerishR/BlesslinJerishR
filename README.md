@@ -5,7 +5,7 @@
   <span style="color: green !important;">&nbsp;Hola </span> ,  Friend .
 </h1>
 
-- FullStack OverFlow Developer 🧱 🧱
+- FullStack OverFlow Developer 🧱 🧱 🧱
 - Gone through more dropouts than breakups  💔
 - I am not in the Team 🐷 🐍
 - I am the Team 🌱
@@ -13,9 +13,9 @@
 - I am God 🃏
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
-- 16 Companies Proposed Me 🤍
-- Yet I Married the One 💍
 - Bruh ... 💉
+- 16 Companies Proposed Me Until.date.now( ) ? * 🤍 💍
+- yet, CAN(m)A(r)RY one 🐦
 
 <br>
 <p align="center">
