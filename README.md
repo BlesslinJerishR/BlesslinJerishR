@@ -6,7 +6,7 @@
 </h1>
 
 - FullStack OverFlow Developer 🧱 🧱 🧱
-- Gone through more dropouts than breakups  💔
+- Gone through more dropouts than breakups 💔
 - I am not in the Team 🐷 🐍
 - I am the Team 🌱
 - I see no God up here 🕉️ ✝️ ☪️
@@ -15,7 +15,8 @@
 - I am the whole IT Department 🥷
 - Bruh ... 💉
 - 16 Companies Proposed Me Until.date.now( ) ? * 🤍 💍
-- CAN(m)A(r)RY one 🐦 !
+- Can I tell you a secret ?
+- I CAN(m)A(r)RY you 🐦 !
 
 <br>
 <p align="center">
