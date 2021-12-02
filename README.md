@@ -14,7 +14,7 @@
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
 - Bruh ... 💉
-- 16 Companies Proposed Me Until.date.now( ) ? * 🤍 💍
+- 16 Companies poposed me until.date.now( ) ? * 🤍 💍
 - Can i tell you a secret ?
 - i CAN(m)A(r)RY you 🐦.
 
