@@ -16,7 +16,7 @@
 - Bruh ... 💉
 - 16 Companies Proposed Me Until.date.now( ) ? * 🤍 💍
 - Can i tell you a secret ?
-- i CAN(m)A(r)RY you 🐦 !
+- i CAN(m)A(r)RY you 🐦.
 
 <br>
 <p align="center">
