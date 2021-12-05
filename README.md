@@ -7,7 +7,7 @@
 
 - FullStack OverFlow Developer 🧱 🧱 🧱
 - Gone through more dropouts than breakups 💔
-- I am not in the Team 🐷 🐍
+- I am not in the Team 🐷 🦁 🐍 🐠
 - I am the Team 🌱
 - I see no God up here 🕉️ ✝️ ☪️
 - I am God 🃏
@@ -15,7 +15,7 @@
 - I am the whole IT Department 🥷
 - Bruh ... 💉
 - 16 Companies proposed me ``until.date.now(today)`` ? * 🤍 💍
-- Can i tell you a secret ?
+- can i tell you a secret ?
 - i CAN(m)A(r)RY you 🐦.
 
 <br>
