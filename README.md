@@ -14,10 +14,10 @@
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
 - Bruh ... 💉
-- 16 Companies proposed Me ``until.date.now(today);`` ? * 🤍 💍
-- etho, Java therinja nala polachaen sir 🦍 ☕
+- 16 Software Companies proposed Me ``until.date.now(today);`` ? *🌹 💍
+- etho, 🦍 Java therinja nala polachaen sir ☕
 - can i tell you a secret ?
-- i ```can.marry;``` you 🐦.
+- i ```CAN.mARY;``` you 💙 🐦.
 
 <br>
 <p align="center">
