@@ -6,7 +6,7 @@
 </h1>
 
 - FullStack OverFlow Developer 🧱 🧱 🧱
-- Gone through more dropouts than breakups 💔
+- Gone through more dropouts than breakups 7️⃣ 💔
 - I am not in the Team 🐷 🦁 🐍 🐠
 - I am the Team 🌱
 - I see no God up here 🕉️ ✝️ ☪️
