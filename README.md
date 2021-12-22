@@ -15,7 +15,7 @@
 - I am the whole IT Department 🥷
 - Bruh ... 💉
 - 16 Software Companies proposed Me ``until.date.now(today);`` ? *🌹 💍
-- etho, 🐒 Java therinja nala polachaen sir ☕
+- etho ☕ Java therinja nala polachaen sir 🐔
 - can i tell you a secret ?
 - i ```CAN.mARY;``` you 💙 🐦.
 
@@ -99,4 +99,4 @@
 
 <br>
 
-**[ X Developer :  Blesslin Jerish R ]**
+**[ Developer :  Blesslin Jerish R ]**
