@@ -13,10 +13,10 @@
 - I am God 🃏
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
-- Bruh ... 💉
+- bruh ... 💉
 - 16 Software Companies proposed Me ``until.date.now(today);`` ? *🌹 💍
 - etho 🎖️🎖️🎖️ JAVA therinja nala polachaen sir 🐔
-- Can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
+- can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
 - thy ```CAN.m.ARY >``` thee ```Automatically``` in ```BangALore``` 💙 🐦.
 
 <br>
