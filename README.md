@@ -17,7 +17,7 @@
 - 16 Software Companies proposed Me ``until.date.now(today);`` ? *🌹 💍
 - etho 🎖️🎖️🎖️ JAVA therinja nala polachaen sir 🐔
 - can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
-- thy ```CAN.ARY >``` thee ```BangALore``` 💙 🐦.
+- Anna Sambar .
 
 <br>
 <p align="center">
