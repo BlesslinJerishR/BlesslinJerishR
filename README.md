@@ -15,7 +15,7 @@
 - I am the whole IT Department 🥷
 - bruh ... 💉
 - 16 Software Companies proposed Me ``until.date.now(today);`` ? *🌹 💍
-- etho 🎖️🎖️🎖️ JAVA therinja nala polachaen sir 🐔
+- etho 🎖️🎖️🎖️ "Java" therinja nala polachaen sir 🐔
 - can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
 - Anna Sambar .
 
