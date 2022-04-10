@@ -6,15 +6,13 @@
 </h1>
 
 - FullStack OverFlow Developer 🧱 🧱 🧱
-- Gone through more dropouts than breakups 7️⃣ 💔
+- Gone through more dropouts than breakups 💔
 - I am not in the Team 🐷 🦁 🐍 🐠
 - I am the Team 🌱
 - I see no God up here 🕉️ ✝️ ☪️
 - I am God 🃏
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
-- bruh ... 💉
-- 16 Software Companies proposed Me ``until.date.now(today);`` ? *🌹 💍
 - etho 🎖️🎖️🎖️ "Java" therinja nala polachaen sir 🐔
 - can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
 - Anna Sambar .
