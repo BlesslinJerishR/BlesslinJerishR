@@ -19,7 +19,7 @@
 
 <br>
 <p align="center">
-<kbd><img src="https://github.com/BlesslinJerishR/BlesslinJerishR/blob/main/s>s.png" height="500px"></kbd>
+<kbd><img src="https://github.com/BlesslinJerishR/BlesslinJerishR/blob/main/S.png" height="500px"></kbd>
 </p>
 <br>
 
