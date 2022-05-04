@@ -13,7 +13,7 @@
 - I am God 🃏
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
-- etho 🎖️🎖️🎖️ "Java" therinja nala polachaen sir 🐔
+- etho 🎖️🎖️🎖️ "Google" nala polachaen sir 🐔
 - can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
 - Anna Sambar .
 
