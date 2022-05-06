@@ -10,7 +10,6 @@
 - I am not in the Team 🐷 🦁 🐍 🐠
 - I am the Team 🌱
 - I see no God up here 🕉️ ✝️ ☪️
-- I am God 🃏
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
 - etho 🎖️🎖️🎖️ "Google" nala polachaen sir 🐔
