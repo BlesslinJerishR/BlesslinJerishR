@@ -5,14 +5,16 @@
   <span style="color: green !important;">&nbsp;Hola </span> ,  Friend .
 </h1>
 
+- 100% Snake Developer 🐍
 - FullStack OverFlow Developer 🧱 🧱 🧱
 - Fan of dropout than breakup 💔
 - I am not in the Team 🐷 🦁 🐍 🐠
 - I am the Team 🌱
 - I see no God up here 🕉️ ✝️ ☪️
+- Will see one when i donate food for Homeless 🪙
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
-- etho 🎖️🎖️🎖️ "Google" nala polachaen sir 🐔
+- etho 🎖️🎖️🎖️ "GOOGLE" nala polachaen sir 🐔
 - can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
 - Anna Sambar .
 
