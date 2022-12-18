@@ -11,7 +11,7 @@
 - I am not in the Team 🐷 🦁 🐍 🐠
 - I am the Team 🌱
 - I see no God up here 🕉️ ✝️ ☪️
-- Will see one when i donate food for Homeless 🪙
+- will see ONE when i donate food for Homeless 🪙
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
 - etho 🎖️🎖️🎖️ "GOOGLE" nala polachaen sir 🐔
