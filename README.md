@@ -14,7 +14,7 @@
 - will see ONE when i donate food for Homeless 🪙
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
-- etho 🎖️🎖️🎖️ "GOOGLE" nala polachaen sir 🐔
+- etho 🎖️🎖️🎖️🎖️ "google" nala polachaen sir 🐔
 - can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
 - Anna Sambar .
 
