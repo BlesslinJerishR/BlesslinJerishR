@@ -5,7 +5,7 @@
   <span style="color: green !important;">&nbsp;Hola </span> ,  Friend .
 </h1>
 
-- 100% | M E R N | Ruby & Rails | Snake Developer 🐍
+- 100% - M E R N - Ruby & Rails - Snake - Full-Stack Developer 🐍
 - FullStack OverFlow Developer 🧱 🧱 🧱
 - Fan of dropout than breakup 💔
 - I am not in the Team 🐷 🦁 🐍 🐠
