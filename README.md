@@ -6,6 +6,7 @@
 </h1>
 
 - 100% Frontend Developer 🐍
+- Company Github @BlesslinFieldproxy
 - FullStack OverFlow Developer 🧱 🧱 🧱
 - I am not in the Team 🐷 🦁 🐍 🐠
 - I am the Team 🌱
