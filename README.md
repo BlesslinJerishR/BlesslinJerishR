@@ -5,7 +5,7 @@
   <span style="color: green !important;">&nbsp;Hola </span> ,  Friend .
 </h1>
 
-- 100% Frontend Developer 🐍
+- 100% Frontend Developer 🕸️
 - Company Github @BlesslinFieldproxy
 - FullStack OverFlow Developer 🧱 🧱 🧱
 - I am not in the Team 🐷 🦁 🐍 🐠
@@ -15,7 +15,7 @@
 - Fan of dropout than breakup 💔
 - I see no God up here 🕉️ ✝️ ☪️
 - will see ONE when i donate food for Homeless 🪙
-- etho 🎖️🎖️🎖️🎖️ "google" nala polachaen sir 🐔
+- etho 🎖️🎖️🎖️🎖️ Google + ChatGPT nala polachaen sir 🐔
 - can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
 - Anna Sambar .
 
