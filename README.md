@@ -6,18 +6,15 @@
 </h1>
 
 - 100% Frontend Developer 🕸️
-- FullStack OverFlow Developer 🧱 🧱 🧱
+- 100% FullStack OverFlow Developer 🧱 🧱 🧱
 - I am not in the Team 🐷 🦁 🐍 🐠
 - I am the Team 🌱
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
-- Fan of dropout than breakup 💔
-- I see no God up here 🕉️ ✝️ ☪️
-- will see ONE when i donate food for Homeless 🪙
-- etho 🎖️🎖️🎖️🎖️ Google + ChatGPT nala polachaen sir 🐔
+- ⚡️ dropout > 💔 breakup
+- 🎖️🎖️🎖️🎖️ Google + ChatGPT certified 🐔
 - can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
 - Anna Sambar .
-- LeetCode, hackerrank, GeekforGeeks is my Mosque, Church, Temple 🔥
 
 <br>
 <p align="center">
