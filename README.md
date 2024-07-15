@@ -5,8 +5,7 @@
   <span style="color: green !important;">&nbsp;Hola </span> ,  Friend .
 </h1>
 
-- 100% Frontend Developer 🕸️
-- 100% FullStack OverFlow Developer 🧱 🧱 🧱
+- 100% FullStack OverFlow Developer 🧱 🕸️ 🧱
 - I am not in the Team 🐷 🦁 🐍 🐠
 - I am the Team 🌱
 - Frontend or Backend ? 📀
