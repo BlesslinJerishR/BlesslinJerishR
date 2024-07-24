@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="pac.png" width="33px" height="33px" style="max-width:100%;">
   </a>
-  <span style="color: green !important;">&nbsp;Hola </span> ,  Friend .
+  &nbsp;Hola,  Friend .
 </h1>
 
 - 100% FullStack OverFlow Developer 🧱 🕸️ 🧱
@@ -17,7 +17,7 @@
 
 <br>
 <p align="center">
-<kbd><img src="https://github.com/BlesslinJerishR/BlesslinJerishR/blob/main/S.png" height="500px"></kbd>
+<kbd><img src="https://github.com/BlesslinJerishR/BlesslinJerishR/blob/main/S.png" height="100vh"></kbd>
 </p>
 <br>
 
@@ -38,22 +38,27 @@
   </a>
 </p>
 
+
+
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 <br/>
 
-**[ TechStack ]**
+<p align="center">
+<b>TechStack</b>  
+</p>
+
 <br/>
 <br/>
 <code><img height="40" width="40" src="icons/html5/html5-original.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="icons/tailwindcss/tailwindcss-plain.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="icons/django/django-original.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" width="40" src="icons/tailwindcss/tailwindcss-plain.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="icons/mysql/mysql-original.svg"></code>
+<code><img height="40" width="40" src="icons/django/django-original.svg"></code>
 
 #
 
@@ -77,7 +82,6 @@
 <code><img height="40" width="40" src="icons/shop.png"></code>
 <br/>
 
-<!-- ![](https://github.com/Mastermindx33/Mastermindx33/blob/main/github-contribution-grid-snake.svg) -->
 <br>
 
 <p align="center">
@@ -96,4 +100,4 @@
 
 <br>
 
-**[ Developer :  Blesslin Jerish R ]**
+**[ Developer :  Blesslin Jerish ]**
