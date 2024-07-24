@@ -38,16 +38,13 @@
   </a>
 </p>
 
-
-
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-
-<br/>
-
 <p align="center">
-<b>TechStack</b>  
+  <a>
+    <a target="_blank"><img align="center" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+  </a>
 </p>
 
+<br/>
 <br/>
 <br/>
 <code><img height="40" width="40" src="icons/html5/html5-original.svg"></code>
