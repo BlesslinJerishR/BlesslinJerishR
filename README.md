@@ -5,15 +5,10 @@
   &nbsp;Hola,  Friend .
 </h1>
 
-- 100% FullStack OverFlow Developer 🧱 🕸️ 🧱
 - I am not in the Team 🐷 🦁 🐍 🐠
 - I am the Team 🌱
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
-- ⚡️ dropout > 💔 breakup
-- 🎖️🎖️🎖️🎖️ Google + ChatGPT certified 🐔
-- can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
-- Anna Sambar .
 
 <br>
 <p align="center">
